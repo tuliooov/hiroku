@@ -1,0 +1,13 @@
+asp_create_location=Central US
+asp_create_pricing=Basic_B1
+asp_name=asp-201129174720
+eclipse.preferences.version=1
+rg_name=TI02
+runtime_javaversion=Newest Java 8
+runtime_linux=TOMCAT 9.0-jre8
+runtime_os=windows
+runtime_webcontainer=Java SE 8
+slot_conf=webapp-201129174720
+slot_name=slot-201129174525
+subscription=Azure para Estudantes
+webapp_name=webapp-201129174720
